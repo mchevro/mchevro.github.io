@@ -12,7 +12,7 @@ Tunggu dulu brother mungkin aja lu salah pada saat installasi atau lu cuman next
 Disni gw mau share sedikit cara jalankan C++ menggunakan Visual Studio Code atau disingkat VsCode😎. Langsung aja gass ke tutornya⬇️
 
 ### Step 1 (VsCode & Extension)🔥
-> **Visual Studio Code** adalah text editor yang berguna untuk menulis code dengan beberapa fitur seperti highlight sintaks, autocomplate code dan beberapa fitur lainya bisa didapatkan dengan cara install **Extension** tertentu.
+> **Visual Studio Code** adalah text editor yang berguna untuk menulis code dengan beberapa fitur seperti highlight sintaks, autocomplate code dan beberapa fitur lain bisa didapatkan dengan cara install **Extension** tertentu.
 
 [1]. Download VsCode melalui link ini brother [Visual Studio Code](https://code.visualstudio.com/download).
 
