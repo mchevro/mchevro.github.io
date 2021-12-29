@@ -91,3 +91,12 @@ Disni gw mau share sedikit cara jalankan C++ menggunakan Visual Studio Code atau
 [5]. Jika sudah silahkan buka command prompt dan ketikan gcc, seperti gambar dibawah ini ⬇️, jika ada error seperti ini tandanya compiler sudah berhasil di perintahkan melalui command prompt😎
 
 ![image](https://user-images.githubusercontent.com/67460437/147698894-999260c6-ece3-4faf-8e5b-3a91f8b9fe2a.png)
+
+## Step 3 (Testing C++)
+Langkah terakhir ini menjalankan file C++ dengan vscode menggunakan extension **code runner**, seperti gambar dibawah ini ⬇️
+
+![image](https://user-images.githubusercontent.com/67460437/147699229-d48f60ff-4c73-4b01-b97b-e4ed616b03b6.png)
+
+Sampai sini kita sudah berhasil menjalankan C++ di VsCode, yeahh😎
+
+## Closing
