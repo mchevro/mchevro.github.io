@@ -45,4 +45,17 @@ Disni gw mau share sedikit cara jalankan C++ menggunakan Visual Studio Code atau
 
 ![image](https://user-images.githubusercontent.com/67460437/147695670-ba119409-9695-47cd-b35d-3e9797be5b60.png)
 
-[6]. 
+[6]. Jika update package sudah berhasil, ketikan Y, seperti gambar dibawah ini ⬇️, nanti akan tertutup terminalnya.
+
+![image](https://user-images.githubusercontent.com/67460437/147695911-a6e70ef6-492c-4840-b184-58f1c59fb52a.png)
+
+[7]. Jalankan kembali **MSYS2 MSYS** di menu start windows, seperti gambar dibawah ini ⬇️
+
+![image](https://user-images.githubusercontent.com/67460437/147696124-e16e3e94-2ffe-4256-9185-0284706b004f.png)
+
+[8]. Jika terminal sudah terbuka, ketikan *pacman -Su* untuk perbarui sisa paket dasar, seperti gambar dibawah ini ⬇️, dan ketikan Y
+
+![image](https://user-images.githubusercontent.com/67460437/147696317-be5771c8-e8d6-4ba5-aa5e-64cb0e55ae7e.png)
+
+
+
