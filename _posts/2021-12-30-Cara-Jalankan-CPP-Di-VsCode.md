@@ -29,7 +29,20 @@ Disni gw mau share sedikit cara jalankan C++ menggunakan Visual Studio Code atau
 ![image](https://user-images.githubusercontent.com/67460437/147690927-e35ca9a2-173a-44e0-b992-007b76f37f2e.png)
 
 ### Step 2 (MSYS2 For Windows)
-> **MSYS2** adalah tools instalasi paket yang berguna untuk menginstall GCC++ atau disebut dengan compiler, yang berguna untuk mengubah source code C++ ke bahasa mesing agar dapat dijalankan dikomputer
+> **MSYS2** adalah tools instalasi paket yang berguna untuk menginstall GCC++ atau disebut dengan compiler, yang berguna untuk mengubah source code C++ ke bahasa mesin agar dapat dijalankan dikomputer
 
 [1]. Download MSYS2 [disini](https://github.com/msys2/msys2-installer/releases/download/2021-11-30/msys2-x86_64-20211130.exe).
 
+[2]. Setelah download selesai, jalankan **MSYS2** untuk melakukan installasi. Wajib 64 Bit Windows 7 atau Windows terbaru.
+
+[3]. Lokasi installasi disarankan di C:\msys64. seperti gambar dibawah ini ⬇️
+
+![image](https://user-images.githubusercontent.com/67460437/147695232-c0cc7499-e78c-4344-a495-c9373cee57e1.png)
+
+[4]. Jika sudah selesai, jalankan **MSYS2**.
+
+[5]. Pastikan sudah terbuka terminalnya, dan ketikan *pacman -Syu*, seperti gambar dibawah ini ⬇️, dan ketikan Y
+
+![image](https://user-images.githubusercontent.com/67460437/147695670-ba119409-9695-47cd-b35d-3e9797be5b60.png)
+
+[6]. 
