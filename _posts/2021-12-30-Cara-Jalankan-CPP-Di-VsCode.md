@@ -103,3 +103,8 @@ Sampai sini kita sudah berhasil menjalankan C++ di VsCode, yeahh😎
 Jika ada kekurangan mohon maaf bgt karena gw disini hanya sharing apa yang gw alami beberapa waktu lalu😔 yang dimana gw menjalankan C++ menggunakan Visual Studio 2019 yang berat bgt di laptop gw😱.
 
 Sekian terima kasih👋
+
+### Referensi
+- https://www.msys2.org/
+- https://www.youtube.com/watch?v=0HD0pqVtsmw
+- https://www.teknisiserbabisa.com/2020/12/persiapan-pemrograman-c-cpp-visual-studio.html
