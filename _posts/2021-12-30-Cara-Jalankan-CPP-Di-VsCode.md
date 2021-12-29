@@ -28,5 +28,8 @@ Disni gw mau share sedikit cara jalankan C++ menggunakan Visual Studio Code atau
 
 ![image](https://user-images.githubusercontent.com/67460437/147690927-e35ca9a2-173a-44e0-b992-007b76f37f2e.png)
 
-### Step 2 (MSYS2)
+### Step 2 (MSYS2 For Windows)
+> **MSYS2** adalah tools instalasi paket yang berguna untuk menginstall GCC++ atau disebut dengan compiler, yang berguna untuk mengubah source code C++ ke bahasa mesing agar dapat dijalankan dikomputer
+
+[1]. Download MSYS2 [disini](https://github.com/msys2/msys2-installer/releases/download/2021-11-30/msys2-x86_64-20211130.exe).
 
