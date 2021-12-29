@@ -100,3 +100,6 @@ Langkah terakhir ini menjalankan file C++ dengan vscode menggunakan extension **
 Sampai sini kita sudah berhasil menjalankan C++ di VsCode, yeahh😎
 
 ## Closing
+Jika ada kekurangan mohon maaf bgt karena gw disini hanya sharing apa yang gw alami beberapa waktu lalu😔 yang dimana gw menjalankan C++ menggunakan Visual Studio 2019 yang berat bgt di laptop gw😱.
+
+Sekian terima kasih👋
