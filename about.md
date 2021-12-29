@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Blog ini berisi informasi dan tutorial yang dipelajari di kuliah Teknik Informatika🤟.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Semoga konten yang dibuat bisa berjalan dengan lancar sampai penulis lulus nanti. Aminn🙏
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Email](mailto:mchevro19@gmail.com)
