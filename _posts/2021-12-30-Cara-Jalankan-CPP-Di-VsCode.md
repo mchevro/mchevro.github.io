@@ -10,3 +10,7 @@ dah lah pasrah gk mau ngoding😜...
 Tunggu dulu brother mungkin aja lu salah pada saat installasi atau lu cuman next next aja pas install tanpa ngeliat installasi itu berhasil atau enggak🤭. 
 
 Disni gw mau share sedikit cara jalankan C++ menggunakan Visual Studio Code atau disingkat VsCode😎. Langsung aja gass ke tutornya⬇️
+
+### VsCode & Extension
+1. Download VsCode melalui link ini brother [Visual Studio Code](https://code.visualstudio.com/download).
+2. Install VsCode
