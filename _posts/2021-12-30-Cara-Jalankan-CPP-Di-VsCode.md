@@ -69,5 +69,23 @@ Disni gw mau share sedikit cara jalankan C++ menggunakan Visual Studio Code atau
 
 ![image](https://user-images.githubusercontent.com/67460437/147697792-702078e8-bdb7-4449-90e3-fae4bfe1e607.png)
 
+## Step 3 (Setting Environment Windows)
+> **Edit the system environment variables** berguna untuk command prompt mengenal perintah *gcc* untuk compile file C/C++
+
+[1]. Ketik dipencarian windows **Edit the system environment variables**, seperti gambar dibawah ini ⬇️
+
+![image](https://user-images.githubusercontent.com/67460437/147698178-961e5c8f-bc7e-4e02-ba67-921d19cc1795.png)
+
+[2]. Klik **Environment Variables**, seperti gambar dibawah ini ⬇️
+
+![image](https://user-images.githubusercontent.com/67460437/147698322-6308a5c5-857a-4621-80fa-9287b7f48cc3.png)
+
+[3]. Edit Path, seperti gambar dibawah ini ⬇️
+
+![image](https://user-images.githubusercontent.com/67460437/147698450-1168686f-5dce-4102-a7ff-c24004c042eb.png)
+
+[4]. Klik New dan tambahkan directory **C:\msys64\mingw64\bin** seperti gambar dibawah ini ⬇️ jika memang anda mengikuti tutorial dari awal🤪
+
+![image](https://user-images.githubusercontent.com/67460437/147698705-b51be7d7-d906-4ab7-aecd-01932b114209.png)
 
 
