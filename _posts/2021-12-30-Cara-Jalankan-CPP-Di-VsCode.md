@@ -57,5 +57,17 @@ Disni gw mau share sedikit cara jalankan C++ menggunakan Visual Studio Code atau
 
 ![image](https://user-images.githubusercontent.com/67460437/147696317-be5771c8-e8d6-4ba5-aa5e-64cb0e55ae7e.png)
 
+[9]. Langkah selanjutnya install beberapa tools dan mingw-w64 GCC untuk compilernya. Ketikan *pacman -S --needed base-devel mingw-w64-x86_64-toolchain*, jika ada pertanyaan **Enter a selection (default=all)** di enter saja, lalu ketik Y, seperti gambar dibawah ini ⬇️ 
+
+![image](https://user-images.githubusercontent.com/67460437/147697424-d516d9c7-50fc-468f-bf74-e6d7f0193c05.png)
+
+[10]. Jika cara diatas sudah berhasil dilakukan, silahkan tutup terminalnya dan buka **MSYS2 MinGW 64-bit**, seperti gambar dibawah ini ⬇️
+
+![image](https://user-images.githubusercontent.com/67460437/147697704-7d9150cc-774c-4b7f-bb07-cb0d129aa92f.png)
+
+[11]. Sekarang sudah berhasil nihh brother installasi compilernya. Untuk test coba ketikan gcc, seperti gambar dibawah ini ⬇️. Disini error karena tidak ada file yang mau dicompile, tetapi sampai disini membuktikan bahawa gcc berhasil diinstall😲.
+
+![image](https://user-images.githubusercontent.com/67460437/147697792-702078e8-bdb7-4449-90e3-fae4bfe1e607.png)
+
 
 
