@@ -88,4 +88,6 @@ Disni gw mau share sedikit cara jalankan C++ menggunakan Visual Studio Code atau
 
 ![image](https://user-images.githubusercontent.com/67460437/147698705-b51be7d7-d906-4ab7-aecd-01932b114209.png)
 
+[5]. Jika sudah silahkan buka command prompt dan ketikan gcc, seperti gambar dibawah ini ⬇️, jika ada error seperti ini tandanya compiler sudah berhasil di perintahkan melalui command prompt😎
 
+![image](https://user-images.githubusercontent.com/67460437/147698894-999260c6-ece3-4faf-8e5b-3a91f8b9fe2a.png)
