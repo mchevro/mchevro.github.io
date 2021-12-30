@@ -57,8 +57,23 @@ harga yang sangat murah, atau bisa dibilang kita disini hanya sewa server pada s
 
 ![image](https://user-images.githubusercontent.com/67460437/147768878-132fea52-85a5-4993-9a2a-94d068137224.png)
 
-[5]. Sekarang anda sudah berhasil login ke windows dengan sangat mudah 😎.
+[5]. Sekarang anda sudah berhasil akses ke windows dengan sangat mudah 😎.
 
 ![image](https://user-images.githubusercontent.com/67460437/147768963-dc46c477-1967-44b1-9396-174c5c9a808a.png)
 
 ## Important ⚠️
+Harga diatas dengan biaya sekitar Rp 1.199 yang gw bilang sebelumnya belum termasuk dengan biaya penyimpanan yang dikenakan sekitar **25K/Bulan**☹️. Jadi untuk menghemat pengeluaran gw sangat sarankan setelah digunakan hapus saja VM yang dibuat sebelumnya, agar tidak dikenakan biaya tambahan🥱. 
+
+Untuk cara delete VM klik tab *VM-Kampus*, seperti gambar dibawah ini ⬇️
+
+![image](https://user-images.githubusercontent.com/67460437/147770356-aee76096-0286-4d17-87d1-da388d1f477b.png)
+
+Selanjutnya bisa klik tulisan **Delete**, seperti gambar dibawah ini ⬇️
+
+![image](https://user-images.githubusercontent.com/67460437/147770449-58947a36-6f4d-4c93-bcfc-42f05c46c993.png)
+
+Tunggu beberapa saat dan pastikan proses **Delete** telah berhasil dilakukan🙈.
+
+## Closing
+
+
