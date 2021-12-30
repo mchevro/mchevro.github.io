@@ -2,6 +2,7 @@
 layout: post
 title: Cara Setup VM Windows Server 2019 Di IDCloudHost
 ---
+![image](https://user-images.githubusercontent.com/67460437/147763390-6724deb0-67f1-4ca5-9a66-326feb671d28.png)
 
 ## Introduction
 Kali ini gw mau share cara setup VM dengan OS windows server 2019, yang dimana nanti berguna untuk di next tutorial ini. 
