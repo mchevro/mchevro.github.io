@@ -36,8 +36,29 @@ harga yang sangat murah, atau bisa dibilang kita disini hanya sewa server pada s
 
 ![image](https://user-images.githubusercontent.com/67460437/147767897-79a456b0-62ac-4903-bf5b-517eddf32eca.png)
 
-[7]. Tunggu beberapa saat sampai proses selesai.
+[7]. Tunggu beberapa saat sampai proses selesai☕.
 
 ![image](https://user-images.githubusercontent.com/67460437/147767969-d33d041e-2620-4d7f-b15e-08fb6bff9ecd.png)
 
+## Step 2 (Akses VM Dengan Virtual Console)
+[1]. Setelah proses selesai, klik VM yang telah dibuat, seperti gambar dibawah ini ⬇️
 
+![image](https://user-images.githubusercontent.com/67460437/147768306-0c9f99d5-c8d1-457b-96cb-25fa5a53cf0f.png)
+
+[2]. Sekarang saatnya akses VM dengan cara klik **Virtual Console**, seperti gambar dibawah ini ⬇️
+
+![image](https://user-images.githubusercontent.com/67460437/147768585-7c546a5a-b3c1-4870-ae49-9537c4365953.png)
+
+[3]. Klik **Ctrl+Alt+Delete**, seperti gambar dibawah ini ⬇️ untuk kita login ke windowsnya.
+
+![image](https://user-images.githubusercontent.com/67460437/147768739-d12a20af-8fcd-4985-beda-3e197a65e4de.png)
+
+[4]. Ketikan password yang dibuat sebelumnya, seperti gambar dibawah ini ⬇️, lalu tekan enter.
+
+![image](https://user-images.githubusercontent.com/67460437/147768878-132fea52-85a5-4993-9a2a-94d068137224.png)
+
+[5]. Sekarang anda sudah berhasil login ke windows dengan sangat mudah 😎.
+
+![image](https://user-images.githubusercontent.com/67460437/147768963-dc46c477-1967-44b1-9396-174c5c9a808a.png)
+
+## Important ⚠️
