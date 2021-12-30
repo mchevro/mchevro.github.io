@@ -75,5 +75,7 @@ Selanjutnya bisa klik tulisan **Delete**, seperti gambar dibawah ini ⬇️
 Tunggu beberapa saat dan pastikan proses **Delete** telah berhasil dilakukan🙈.
 
 ## Closing
+Cara ini sering gw pake ketika gw membutuhkan hardware dengan spesifikasi tinggi tapi dengan biaya semurah mungkin, karena biasa gw pake cuman untuk percobaan saja, setelah itu gw langsung delete agar tidak terpotong banyak saldo deposit gw🤭. 
 
+Sekian terima kasih✌️. Jika ada pertanyaan silahkan berikan komentar, sebisa mungkin gw akan bantu menjawabnya👋. 
 
