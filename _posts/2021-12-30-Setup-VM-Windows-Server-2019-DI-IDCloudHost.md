@@ -28,3 +28,16 @@ harga yang sangat murah, atau bisa dibilang kita disini hanya sewa server pada s
 
 ![image](https://user-images.githubusercontent.com/67460437/147765584-fac15f85-23bb-4aee-b5fd-a067c7b33b12.png)
 
+[5]. Kita scrool kebawah untuk konfigurasi terakhir, seperti gambar dibawah ini ⬇️. Isi password untuk login VM nanti dan berikan label nama untuk ditampilkan di dashboard IDCloudhost.
+
+![image](https://user-images.githubusercontent.com/67460437/147767673-6b9f7594-2b60-45c1-bcba-8e872778e4ef.png)
+
+[6]. Jika semua konfigurasi diatas sudah terpenuhi, langkah selanjutnya adalah tekan button create yang berada di kanan bawah, seperti gambar dibawah ini ⬇️
+
+![image](https://user-images.githubusercontent.com/67460437/147767897-79a456b0-62ac-4903-bf5b-517eddf32eca.png)
+
+[7]. Tunggu beberapa saat sampai proses selesai.
+
+![image](https://user-images.githubusercontent.com/67460437/147767969-d33d041e-2620-4d7f-b15e-08fb6bff9ecd.png)
+
+
