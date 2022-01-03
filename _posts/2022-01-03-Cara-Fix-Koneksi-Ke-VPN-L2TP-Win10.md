@@ -16,5 +16,27 @@ Setelah gw mencoba terkoneksi menggunakan HP ternyata bisa jalan dengan jenis L2
 
 ![image](https://user-images.githubusercontent.com/67460437/147941997-0ccdafcc-83f5-44dd-b950-0047698efb75.png)
 
-## Step 1 
+## Step 1 (Bypass Koneksi)
+> Secara bawaan windows gk mendukung koneksi jenis VPN L2TP/IPsec kalo server VPN berada di belakang NAT. Jadi untuk handle masalah ini kita bisa ubah *registry*.
+
+[1]. Buka *registry* editor, seperti gambar dibawah ini ⬇️.
+
+![image](https://user-images.githubusercontent.com/67460437/147961138-f71b15da-53b1-4a6c-a51e-abe5b9086476.png)
+
+[2]. kita akan menambahkan *key* dengan cara klik panel dikiri dan buka directory **HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Sevices\PolicyAgent**, seperti gambar dibawah ini ⬇️.
+
+![image](https://user-images.githubusercontent.com/67460437/147961805-e2e8d85f-ce74-47e5-a825-50b725a338a4.png)
+
+[3]. Klik kanan di space kosong lalu klik **New > DWORD (32 bit) Value**. Lalu isikan *key* baru ini dengan nama **AssumeUDPEncapsulationContextOnSendRule** dan enter, seperti gambar dibawah ini ⬇️
+
+![image](https://user-images.githubusercontent.com/67460437/147962263-6773cd12-f6bb-4e00-8038-120c0c4d7b7e.png)
+
+[4]. Jika sudah dibuat kemudia klik kanan pilih **modify** dan isikan Value data **2**, seperti gambar dibawah ini ⬇️. lalu Ok 
+
+![image](https://user-images.githubusercontent.com/67460437/147962379-8fc6cada-e8cb-4382-84cd-6a3f14b0a0e9.png)
+
+## Step 2 (Restart PC)
+Setelah langkah diatas dilakukan, laptop/pc kita harus wajib direstart agar perubahan yang kita lakukan bisa berjalan dengan lancar😎.
+
+## Closing
 
