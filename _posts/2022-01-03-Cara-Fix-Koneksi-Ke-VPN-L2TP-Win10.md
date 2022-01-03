@@ -39,4 +39,9 @@ Setelah gw mencoba terkoneksi menggunakan HP ternyata bisa jalan dengan jenis L2
 Setelah langkah diatas dilakukan, laptop/pc kita harus wajib direstart agar perubahan yang kita lakukan bisa berjalan dengan lancar😎.
 
 ## Closing
+Langkah diatas kemungkinan berhasilnya sangat besar. Jadi jika permasalahan ini belum bisa juga silahkan anda hubungi pihak penyedia VPN atau ISP anda, Karena ada beberapa ISP yang membelokir trafic VPN karena dianggap berbahaya😲.
 
+Sekian sharing gw kali ini, mohon maaf bila ada kekurangan penulisan✌️. Terima kasih banyak semuanya👋.
+
+## Referensi 
+- https://www.wintips.org/fix-cannot-connect-to-l2tp-vpn-in-windows-10-solved/
