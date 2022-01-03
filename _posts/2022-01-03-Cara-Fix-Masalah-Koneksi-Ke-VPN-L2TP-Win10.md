@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cara Fix Koneksi Ke VPN L2TP Windows 10
+title: Cara Fix Masalah Koneksi Ke VPN L2TP Windows 10
 ---
 
 ## Introduction
