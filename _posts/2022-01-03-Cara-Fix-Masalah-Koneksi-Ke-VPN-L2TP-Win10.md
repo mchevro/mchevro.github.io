@@ -11,10 +11,10 @@ Pada saat itu gw buat menggunakan jenis VPN L2TP, sementara itu pas gw coba terk
 Setelah gw mencoba terkoneksi menggunakan HP ternyata bisa jalan dengan jenis L2TP, berarti permasalahnya bukan di servernya, tetapi di pc gw🙈. Sekarang gw mau coba share cara gw memperbaiki permasalahan ini dengan sangat mudah😎. Cek dibawah ini ⬇️
 
 
-## Error Yang Gw Alami
+## Error Yang Gw Alami 
 > seperti gambar dibawah ini ⬇️ lah error yang gw alami.
 
-![image](https://user-images.githubusercontent.com/67460437/147941997-0ccdafcc-83f5-44dd-b950-0047698efb75.png)
+![image](https://user-images.githubusercontent.com/67460437/147976516-3fcfc010-ca10-464a-84e1-87cb0a8b09d5.png)
 
 ## Step 1 (Bypass Koneksi)
 > Secara bawaan windows gk mendukung koneksi jenis VPN L2TP/IPsec kalo server VPN berada di belakang NAT. Jadi untuk handle masalah ini kita bisa ubah *registry*.
