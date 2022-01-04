@@ -28,6 +28,16 @@ Disni gw mau share sedikit cara jalankan C++ menggunakan Visual Studio Code atau
 
 ![image](https://user-images.githubusercontent.com/67460437/147690927-e35ca9a2-173a-44e0-b992-007b76f37f2e.png)
 
+[6]. Setting **Code Runner** agar bisa dijalankan di terminal nantinya, seperti gambar dibawah ini ⬇️
+
+![image](https://user-images.githubusercontent.com/67460437/148091756-ac7aefed-a8f1-47d3-be06-64d8414bde64.png)
+
+[7]. Cari dan ceklis 3 opsi settingan ini, seperti gambar dibawah ini ⬇️. setelah itu close saja.
+
+![image](https://user-images.githubusercontent.com/67460437/148091859-27bdaf82-4eb1-4c21-a05e-ff724bea099b.png)
+
+
+
 ## Step 2 (MSYS2 For Windows)
 > **MSYS2** adalah tools instalasi paket yang berguna untuk menginstall GCC++ atau disebut dengan compiler, yang berguna untuk mengubah source code C++ ke bahasa mesin agar dapat dijalankan dikomputer
 
