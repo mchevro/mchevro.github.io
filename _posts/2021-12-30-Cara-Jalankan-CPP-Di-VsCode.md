@@ -61,7 +61,7 @@ Disni gw mau share sedikit cara jalankan C++ menggunakan Visual Studio Code atau
 
 ![image](https://user-images.githubusercontent.com/67460437/147697424-d516d9c7-50fc-468f-bf74-e6d7f0193c05.png)
 
-[10]. Jika cara diatas sudah berhasil dilakukan, silahkan tutup terminalnya dan buka **MSYS2 MinGW 64-bit**, seperti gambar dibawah ini ⬇️
+[10]. Jika cara diatas sudah berhasil dilakukan, silahkan tutup terminalnya dan buka **MSYS2 MinGW 64-bit** atau **MSYS2 MinGW x64**, seperti gambar dibawah ini ⬇️
 
 ![image](https://user-images.githubusercontent.com/67460437/147697704-7d9150cc-774c-4b7f-bb07-cb0d129aa92f.png)
 
@@ -93,6 +93,8 @@ Disni gw mau share sedikit cara jalankan C++ menggunakan Visual Studio Code atau
 ![image](https://user-images.githubusercontent.com/67460437/147698894-999260c6-ece3-4faf-8e5b-3a91f8b9fe2a.png)
 
 ## Step 3 (Testing C++)
+> Wajib close terlebih dahulu vscodenya, setelah itu baru jalankan langkah ini
+
 Langkah terakhir ini menjalankan file C++ dengan vscode menggunakan extension **code runner**, seperti gambar dibawah ini ⬇️. Cara jalankanya di menu kanan atas ada icon play tinggal di klik saja.
 
 ![image](https://user-images.githubusercontent.com/67460437/147699229-d48f60ff-4c73-4b01-b97b-e4ed616b03b6.png)
